@@ -57,7 +57,7 @@ python manage.py runserver localhost:8888
 И после запуска сервера, он будет доступен нам по адресу -- http://localhost:8888/
 
 <br>
-![alt text](example_pepe.png"Описание будет тут")
+![Image alt](https://github.com/s191k/pytest_pepe_html_report/raw/master/example_pepe.png)
 (Если не грузится - то в проекте файл example_pepe.png)
 
 ### TODO ::

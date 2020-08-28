@@ -56,9 +56,7 @@ python manage.py runserver localhost:8888
 т.е. надо будет ввести - manage.py runserver localhost:8888)
 И после запуска сервера, он будет доступен нам по адресу -- http://localhost:8888/
 
-<br>
-![Image alt](https://github.com/s191k/pytest_pepe_html_report/raw/master/example_pepe.png)
-(Если не грузится - то в проекте файл example_pepe.png)
+![](https://github.com/s191k/pytest_pepe_html_report/raw/master/example_pepe.png)
 
 ### TODO ::
 1. Сделать как библиотеку? (С созданием главного из которого будет запускаться django-сервер)
